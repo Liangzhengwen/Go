@@ -1,2 +1,2 @@
 # Ivan
-存放PHP所有文件
+存放Golang所有文件
